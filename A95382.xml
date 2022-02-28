@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a late skirmish at Henley upon Thames: wherein a great defeat was given to the Redding Cavaliers, lately assaulting the aforesaid towne of Henley. Being the true copy of a letter sent from one Captaine Samuel Turner, then in the said service, to his brother in London.</title>
+            <author>Turner, Samuel, d. 1647?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95382</idno>
+            <idno type="STC">Wing T3334</idno>
+            <idno type="STC">Thomason E86_15</idno>
+            <idno type="STC">ESTC R4163</idno>
+            <idno type="EEBO-CITATION">99872614</idno>
+            <idno type="PROQUEST">99872614</idno>
+            <idno type="VID">125057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a late skirmish at Henley upon Thames: wherein a great defeat was given to the Redding Cavaliers, lately assaulting the aforesaid towne of Henley. Being the true copy of a letter sent from one Captaine Samuel Turner, then in the said service, to his brother in London.</title>
+                  <author>Turner, Samuel, d. 1647?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his Shop in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 26. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henley-on-Thames (Oxfordshire) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125057:1"/>
+            <head>A true RELATION Of a late Skirmiſh at HENLEY upon THAMES: <hi>WHEREIN</hi> A great defeat was given to the <hi>Red<g ref="char:EOLhyphen"/>ding</hi> Cavaliers, lately aſſaulting the aforeſaid Towne of <hi>HENLEY.</hi>
+            </head>
+            <p>
+               <hi>BEING The true Copy of a Letter ſent from one Captaine</hi> Samuel Turner, <hi>then in the ſaid ſervice, to his brother in</hi> LONDON.</p>
+            <q>
+               <hi>Si Deus nobiſcum, Quis contra nos?</hi>
+            </q>
+            <p>London Printed for <hi>Henry Overton,</hi> and are to ſold at his Shop in Popes-Head-Alley. <hi>Jan.</hi> 26. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125057:2"/>
+            <pb n="1" facs="tcp:125057:2"/>
+            <head>A true RELATION OF A Late Skirmiſh at HENLEY upon Thames.</head>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>I_ Know ere this you expected to have heard from me concerning our wel<g ref="char:EOLhyphen"/>come to this Towne of <hi>Henlie,</hi> where now we are, and indeed I had anſwer<g ref="char:EOLhyphen"/>ed both your expectation, and mine owne deſire before this, could I have heard but of a<g ref="char:EOLhyphen"/>ny one that had gone from hence to <hi>London:</hi> I know you have already heard in part what friends came from <hi>Redding</hi> hither to viſit us, within few houres af<g ref="char:EOLhyphen"/>ter we came here. But to give you a full and true Re<g ref="char:EOLhyphen"/>lation of what my ſelfe was an eye-witneſſe of, from
+<pb n="2" facs="tcp:125057:3"/>the beginning to the end: About nine of the clock at night we came to this Towne, where before we could get in, by reaſon the bridge was not quite laid down, we were enforced to ſtay an houre and an halfe at the leaſt; So ſoon as we were come in, and our men gone to their quarters, ſome of us, amongſt which my ſelfe was one, rid round to view the Towne how it lay, which when we had done; we appointed 4. Com<g ref="char:EOLhyphen"/>panies to watch that night, one towards <hi>Redding,</hi> and the other at the Bridge, at third at the upper end of the Town, and my ſelfe having the maine guard, it being mine for that night as I was eldeſt Captaine of thoſe that watched: I divided my Company, and ſent my Lieutenant, with about 40. men to guard ſome works which the Towne had made on the way to <hi>Oxford,</hi> I having the reſt on the maine guard, which was kept in a little round houſe cloſe by the Towne Hall, where the 4. wayes divide themſelves, having thus ordered our men, and having placed our Ordnance, which were but 3. in all, one of our biggeſt pieces towards <hi>Redding</hi> road, and the other, which was our beſt, toward <hi>Oxford,</hi> and the third, which was but a Drake, wee planted toward the upper end of the Towne, by that time this was done, it grew neere ele<g ref="char:EOLhyphen"/>ven of the Clocke; halfe an houre after, being in com<g ref="char:EOLhyphen"/>pany with Captaine <hi>Beton,</hi> it being my place to goe the grand round, he deſired to goe along with mee, we went with 6. Musketiers round about the hills which compaſſe the Towne, halfe an houre after twelve we came in again, and found all quiet and
+<pb n="3" facs="tcp:125057:3"/>well, about two of the Clock in the morning, being in a houſe with the Maior, and moſt of our Gunners, diſcourſing together, news was brought that the ene<g ref="char:EOLhyphen"/>my was come, and had fired upon our Centinels, which cauſed an Alarme through the Towne, we all (though Gods aſſiſtance) put on reſolutions to with<g ref="char:EOLhyphen"/>ſtand them to the utmoſt, they came furiouſly on, with a loud cry, the Towne is ours, and did no way queſtion to have broke through all, being moſt of them Troopers, and Dragooneers; the number as we heare by a Enſigne whom we tooke priſoner, who was mounted for the ſervice, was about one thou<g ref="char:EOLhyphen"/>ſand horſe, riding two and two on a horſe; the firſt Centinell who made diſcovery of them, having gi<g ref="char:EOLhyphen"/>ven fire, preſently ran away to the Court of guard, who preſently were in a readineſſe, and came forth and fired upon them, ſo as that they could not come into the Towne ſo ſoon as they made account of, but being all horſe, ſave only ten or twelve of their Dra<g ref="char:EOLhyphen"/>gooneers which were on foote, at laſt they broke their way through, and came along the Lane towards the Towne, the way they came being but narrow, and not above a flights ſhot, or little more in length, from their firſt entrance, we being in readineſſe to have fired upon them, durſt not, by reaſon they drove our men before them all along the way, our Parlia<g ref="char:EOLhyphen"/>ment dog lay ready to fire upon them, which being laden with one great ſhot, and two caſes of ſhot, con<g ref="char:EOLhyphen"/>taining 120. Musket bullets, at length the way being cleare of our owne men, but full of theirs, we let flie,
+<pb n="4" facs="tcp:125057:4"/>my ſelfe being within a yard or two at moſt when it gave fire, and ſaw the execution it did; ſome of their horſe came ſo deſperately on, that they were even rea<g ref="char:EOLhyphen"/>dy to enter upon the mouth of the Canon, as pre<g ref="char:EOLhyphen"/>ſently after the ſhot was given appeared, for we found 3. men, and 4. horſe lie dead within leſſe then a quaites throw off the mouth of the piece, and an En<g ref="char:EOLhyphen"/>ſigne which was found halfe dead, and halfe alive, having his Leg ſhot ſhort off, and ſome three ſhots more in his body beſide, yet living, who confeſſed the whole buſineſſe; I think they were ſo bit, that they will ſcarce brag of their Victory, or come again in haſt; the number of men which we found of theirs were but 4. which were killed outright, and 5. horſe, one horſe the Gunner tooke alive, and another, which by reaſon of their great haſt in running away, as wee conceive, crowding along a narrow way, who ſhould get firſt away, fell into a muddy ditch, and there was left till morning, where we tooke him out, one of theſe 4. men, as our Souldiers were ſtripping of them, ſpoke a word or two, and ſo dyed, That he was the firſt Captaine of the Lord <hi>Grandiſons</hi> Regiment, and deſired to be remembred to his Colonell, and dyed immediatly, hee having received above a dozen wounds, another as we heare was a Serjeant Major, and ſince we heare of ſixe that were found dead in a wood, lying together on a heap, one of them a Cap<g ref="char:EOLhyphen"/>taine, and we are informed by ſome who came from a place called <hi>Cauſome,</hi> that there are divers lie woun<g ref="char:EOLhyphen"/>ded there, beſide our men ſaw them lift up on their
+<pb n="5" facs="tcp:125057:4"/>horſes which they carryed away, ſome dead, others wounded, ſo that we conceive they loſt thirty men at leaſt, The whole Skirmiſh from the time they entred, to the time they ran away, was not a full quarter of an houre; We loſt of our men but 3. in all, one of which was mine, who was firſt ſlaine, he was ſhot as he was ſtanding on the left of my Company as I had drawne them up, with a Musket bullet, which went in at his left breaſt, and came through at his back on the right ſhoulder, ſo as he fell preſently downe, with his armes ſpread out, not moving any part of his bo<g ref="char:EOLhyphen"/>dy, ſo that I conceive the ſhot went through his heart, he was honourably interred the next day, attended with a great number of Souldiers out of every Com<g ref="char:EOLhyphen"/>pany, another of my Souldiers, one <hi>Tho: Hyat,</hi> a Fiſhmongers man, who lives in your diviſion, was ſhot through the body with a piſtoll ſhot, as hee was comming from his quater to the Court of guard, hee was forced to make uſe of their language to ſave him<g ref="char:EOLhyphen"/>ſelfe, and to cry out, where are theſe Roundheaded rogues, but they purſuing of him, ſtruck him through the hat with a Pole axe, but miſſed his head, I have great hope of his recovery, he hath told me ſince, hee hopes to live to have a revenge on them; Thus as well as I can remember, I have given you a narration of what paſſages hapned: Truly hee is more then blinde which could not ſee God mainfeſtly in every particular working deliverance for us, and confuſion to our enemies, we may truly ſay, never leſſe of Man ſeen, and more of God, for I had almoſt forgot to tell
+<pb n="6" facs="tcp:125057:5"/>you that two Troopes of horſe which were ap<g ref="char:EOLhyphen"/>pointed to be with us, left us at the Townes end, and went away to their quarters, ſo that we were left na<g ref="char:EOLhyphen"/>ked, onely God fought on our ſides: if the enemy had got into the Towne, I believe few of us had been alive at this preſent, thus fearing to be over-tedious to you, I reſt.</p>
+            <closer>
+               <signed>
+                  <hi>Your ever loving Brother,</hi> Samuel Turner.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125057:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
